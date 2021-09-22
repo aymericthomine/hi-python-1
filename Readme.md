@@ -41,7 +41,9 @@ You **CAN** use any libraries you want.
 
 Folder : **`ex00_json2ini`**
 
-Write a python program that take a configuration file as an argument and generate a json one.
+Write a python program that take a json configuration file as an argument and generate an ini one.
+
+> One deep json is cool but handle a complex json is coolest! :)
 
 ### 01 Json to CSV 
 
